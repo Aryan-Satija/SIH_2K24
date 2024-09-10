@@ -52,7 +52,7 @@ npm run start
 ### Mobile Application
 Pre-requisite - Make sure to install Android studio and setup emulator.
 
-Debug App Link - [Here](https://drive.google.com/file/d/1MYpaRhGbZlyzV-0leLVCacFK-vRHeMBq/view?usp=drive_link)
+
 #### 1. Clone the Repository
 
 First, clone the **ProtecTech** repository:
